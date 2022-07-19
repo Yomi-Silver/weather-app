@@ -1,0 +1,102 @@
+*{ 
+     background-color: green;
+
+}
+
+.background{
+     height: 100%;
+     width: 100%;
+
+}
+
+
+
+
+.holder{
+     background-color: blue;
+     border: 5px solid black;
+     border-radius: 15px;
+     width: 50%;
+     /* height: 50%; */
+     align-items: center;
+     justify-content: center;
+     margin: auto;
+     margin-top: 12%;
+     /* border: inset; */
+     outline: none;
+}
+
+.inputFamily{
+     background-color: blue;
+
+     padding-top: 60px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+
+#input{
+     background-color: blue;
+
+     /* flex: 1; */
+     height: 20px;
+     padding: 8px;
+     margin-right: 20px;
+     /* border-radius: 10px; */
+     outline: none;
+     border: none;
+     border-bottom: 1px solid black;
+     font-size: larger;
+}
+
+#submit{
+     background-color: blue;
+
+     /* flex: 1; */
+     margin-left: 10px;
+     height: 30px;
+     width: 80px;
+     /* padding: 6px; */
+     border-radius: 4px;
+     outline: none;
+     border: none;
+     cursor: pointer;
+     color: aqua;
+     background-color: rgb(165, 36, 36);
+}
+
+.info{
+     background-color: blue;
+
+     text-align: justify;
+     align-items: center;
+     justify-content: center;
+     margin-top: 30px;
+     margin-left: 20%;
+}
+#cityName{
+     background-color: blue;
+
+     text-align: left;
+     font-style: italic;
+     margin-left: 120px;
+}
+
+
+.foot{
+     background-color: blue;
+     margin-top: 50px;
+     padding-top: 50px;
+     text-align: center;
+
+}
+span{
+     background-color: blue;
+
+     color: darkgoldenrod;}
+     p, h4{     background-color: blue;
+     }
+
+
+
+
